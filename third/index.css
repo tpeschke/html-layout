@@ -1,0 +1,38 @@
+header {
+    height: 12vh;
+    width: 100vw;
+    background: lightgray;
+    padding-top: 2vh;
+    padding-left: 3vh;
+
+}
+
+div {
+    height: 8vh;
+    width: 8vh;
+    background: rgb(0, 144, 201);
+}
+
+.white {
+    height: 28vh;
+}
+
+.blue {
+    height: 15vh;
+    background: rgb(0, 144, 201);
+}
+
+.limegreen {
+    height: 15vh;
+    background:rgb(36, 204, 154);
+}
+
+.forestgreen {
+    height: 15vh;
+    background: rgb(180, 221, 115);
+}
+
+.yellow {
+    height: 15vh;
+    background: yellow;
+}

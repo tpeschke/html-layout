@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    width: 100vw;
+}
+
+header {
+    height: 18vh;
+    width: 850px;
+    margin: 15px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+footer {
+    height: 25px;
+    width: 25px;
+    background: lightcoral;
+}
+
+div {
+    display: inline-block
+}
+
+.small-square {
+    background: purple;
+    height: 125px;
+    width: 45px;
+    margin: 5px 15px 45px 10px;
+}
+
+.large-square {
+    background: green;
+    height: 145px;
+    width: 345px;
+    margin: 10px 15px 45px 25px;
+}
+
+.circle {
+    background: lightskyblue;
+    height: 145px;
+    width: 145px;
+    border-radius: 160px;
+    margin: 10px 15px 45px 25px;
+}
+
+section {
+    height: auto;
+    width: 850px;
+    margin: 15px;
+    background: #ffffff;
+    border: 5px;
+    border-color: black;
+    border-style: dotted;
+}
+
+.shadow-square {
+    background: rgb(255, 239, 182);
+    height: 150px;
+    width: 650px;
+    margin: 50px 100px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+footer {
+    height: 300px;
+    width: 500px;
+    margin: 15px auto;
+    background: #ffffff;
+    border: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    box-shadow: 3px 3px 5px gray;
+    padding: 110px;
+}
+
+h1 {
+    font-family: serif;
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 10px;
+}
